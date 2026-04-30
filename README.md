@@ -17,6 +17,7 @@ Un sistema de gestión centralizado que automatice el control de inventario y vi
 con un historial de deudas por cliente, haciendo que cada producto este registrado.
 
 ## Preanálisis
+
 Necesidades
 -Digitalizar el catálogo de productos y precios.
 -Llevar un registro histórico de quién debe, cuánto debe y cuándo compró.
