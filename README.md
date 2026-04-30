@@ -18,10 +18,10 @@ con un historial de deudas por cliente, haciendo que cada producto este registra
 
 ## Preanálisis
 
-Necesidades
--Digitalizar el catálogo de productos y precios.
--Llevar un registro histórico de quién debe, cuánto debe y cuándo compró.
--Reducir el tiempo de atención al cliente en el mostrador.
+Necesidades <br>
+- Digitalizar el catálogo de productos y precios.
+- Llevar un registro histórico de quién debe, cuánto debe y cuándo compró.
+- Reducir el tiempo de atención al cliente en el mostrador.
 
 Estudio de visibilidad
 - Operativa: Siempre que la interfaz sea minimalista y diseñada para alguien que no es experto en computación
