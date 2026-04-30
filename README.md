@@ -30,7 +30,7 @@ Alcance del Sistema
 - Registro de Ventas (Efectivo y Crédito).
 - Gestión de Clientes y Cobro de Deudas.
 
-## Análisis de Requerimientos
+## Análisis
 ## Requerimientos Funcionales
 | Codigo | Descripcion |
 |---|---|
